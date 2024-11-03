@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">google-books-project</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">Digite seu email</string>
+    <string name="password_label">Senha</string>
+    <string name="password_hint">Digite sua senha</string>
+    <string name="login_button">Entrar\n</string>
+    <string name="register_button">Registrar</string>
+    <string name="name_label">Nome</string>
+    <string name="name_hint">Digite seu nome</string>
+    <string name="back_button_description">Voltar</string>
+</resources>
